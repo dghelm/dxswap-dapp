@@ -1,5 +1,5 @@
 {
-  "short_name": "Swapr",
+  "short_name": "Swapr UNOFFICIAL",
   "name": "Swapr",
   "icons": [
     {
@@ -18,5 +18,6 @@
   "orientation": "portrait",
   "display": "standalone",
   "theme_color": "#ff007a",
-  "background_color": "#fff"
+  "background_color": "#fff",
+  "skylink": "AQA78StqX5ahskjK2i340c3_46RnIf3FwGicsGuZVjaTfQ"
 }
